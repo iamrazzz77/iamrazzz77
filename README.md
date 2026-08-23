@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Faishal Saif</h1>
 
 <h3 align="center">
-Frontend Developer | Full-Stack Developer | IT Engineer
+Frontend Developer • Full-Stack Developer • IT Engineer
 </h3>
 
 <p align="center">
   <a href="https://faishal-personal-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/faishal-saif-3b13601b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,101 +20,125 @@ Frontend Developer | Full-Stack Developer | IT Engineer
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Frontend & Full-Stack Developer** with a strong interest in building modern, responsive, and user-friendly web applications.
+I'm a passionate **Frontend & Full-Stack Developer** focused on building modern, responsive, and user-friendly web applications.
 
-- 💻 Experienced in **Frontend Development & Web Technologies**
-- ⚛️ Working with **React.js, JavaScript, HTML & CSS**
-- 🔧 Familiar with **Node.js, Express.js & REST APIs**
-- 🗄️ Experience with **MongoDB, MySQL & MSSQL**
-- 🎨 Interested in **UI/UX, Web Design & Digital Solutions**
-- 🚀 Continuously learning and improving my development skills
-- 🌍 Currently working and developing my professional experience in **Saudi Arabia**
+I enjoy transforming ideas into practical digital solutions while continuously improving my technical and problem-solving skills.
+
+* 💻 Focused on **Web Development & Modern UI**
+* ⚛️ Experienced with **React.js & JavaScript**
+* 🔧 Working with **Node.js, Express.js & REST APIs**
+* 🗄️ Experience with **MongoDB, MySQL & MSSQL**
+* 🎨 Interested in **UI/UX, Web Design & Digital Solutions**
+* 🖥️ Experience in **IT Support & Technical Operations**
+* 🚀 Always learning and exploring new technologies
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack
 
-### Frontend Development
+### Frontend
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### Programming & Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,postman,vscode,photoshop" />
 </p>
 
 ---
 
 ## 🚀 What I Do
 
-- 🌐 Develop responsive and modern websites
-- ⚛️ Build React-based web applications
-- 🔗 Develop and integrate REST APIs
-- 🗄️ Design and manage databases
-- 🖥️ Provide IT & technical support
-- ⚙️ Manage web applications and technical infrastructure
-- 🎨 Create and improve digital interfaces and visual content
+| Area                    | Technologies / Skills                      |
+| ----------------------- | ------------------------------------------ |
+| 🌐 Frontend Development | HTML, CSS, JavaScript, React.js, Bootstrap |
+| ⚙️ Backend Development  | Node.js, Express.js, REST APIs             |
+| 🗄️ Database Management | MongoDB, MySQL, MSSQL                      |
+| 🔧 Development Tools    | Git, GitHub, Postman, VS Code              |
+| 🎨 UI & Design          | Responsive Design, UI/UX, Photoshop        |
+| 🖥️ IT Operations       | Technical Support, System Administration   |
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
 ### 💰 Crypto Dashboard
-A responsive cryptocurrency dashboard built using React.js with dynamic data visualization.
 
-### 🌐 Personal Portfolio
-A professional portfolio website showcasing my skills, projects, and experience.
+A modern cryptocurrency dashboard built with React.js, focused on responsive UI and dynamic data visualization.
+
+**Tech:** React.js • JavaScript • REST API • CSS
+
+---
 
 ### ♻️ Recycling Management Platform
-A web-based platform designed to manage recycling operations, RVM machines, materials, and operational data.
+
+A web-based management platform designed to handle recycling operations, RVM machines, materials, and operational data.
+
+**Tech:** React.js • Node.js • Express.js • Database
 
 ---
 
-## 📫 Connect With Me
+### 🌐 Personal Portfolio
 
-<p>
+A responsive personal portfolio showcasing my technical skills, projects, and professional experience.
+
+**Tech:** HTML • CSS • JavaScript • React.js
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <a href="https://github.com/iamrazzz77">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrazzz77&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Building modern web applications
+        ↓
+Improving React & JavaScript skills
+        ↓
+Learning advanced backend development
+        ↓
+Working with databases & APIs
+        ↓
+Building practical real-world solutions
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://faishal-personal-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/faishal-saif-3b13601b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Faishal%20Saif-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Faishal%20Saif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:faishalsaif331@gmail.com">
-    <img src="https://img.shields.io/badge/Email-faishalsaif331%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+<h3 align="center">✨ Building • Learning • Improving</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamrazzz77&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrazzz77&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <i>Building, learning, and improving every day 🚀</i>
+  <i>Turning ideas into meaningful digital experiences.</i>
 </p>
