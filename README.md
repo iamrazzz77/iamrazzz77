@@ -6,25 +6,26 @@
 
 <p>
 Building modern web applications, practical digital solutions,
+<br/>
 and reliable technology experiences.
 </p>
 
 <br/>
 
 <a href="https://faishal-personal-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/faishal-saif-3b13601b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/iamrazzz77">
-  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="mailto:faishalsaif331@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -37,11 +38,11 @@ and reliable technology experiences.
 
 ## 👨‍💻 About Me
 
-I'm an **IT Engineer** and **Frontend & Full-Stack Developer** passionate about building modern, responsive, and practical digital solutions.
+I'm an **IT Engineer** and **Frontend & Full-Stack Developer** focused on building modern, responsive, and practical digital solutions.
 
-I work across **web development, backend systems, databases, IT operations, and technical support**, with a focus on solving real-world business and technical challenges.
+I combine **software development, backend technologies, databases, IT operations, and technical support** to solve real-world business and technical challenges.
 
-### What defines my work
+### What I bring
 
 - 💻 Modern **Web Development**
 - ⚛️ **React.js & JavaScript**
@@ -49,7 +50,7 @@ I work across **web development, backend systems, databases, IT operations, and 
 - 🗄️ **MongoDB, MySQL & MSSQL**
 - 🎨 **UI/UX & Responsive Design**
 - 🖥️ **IT Support & System Administration**
-- 🔧 Technical troubleshooting and problem solving
+- 🔧 Technical troubleshooting & problem solving
 - 🚀 Continuous learning through real-world projects
 
 ---
@@ -62,7 +63,7 @@ I work across **web development, backend systems, databases, IT operations, and 
 
 Working across IT operations, software, web platforms, and technical environments.
 
-**Core Responsibilities**
+**Key Responsibilities**
 
 - Providing technical support and day-to-day IT operations
 - Developing and maintaining web-based business solutions
@@ -114,11 +115,11 @@ Working across IT operations, software, web platforms, and technical environment
 
 ### 💻 Frontend Development
 
-Creating responsive, modern, and user-friendly interfaces using React.js, JavaScript, HTML, CSS, Bootstrap, and jQuery.
+Building responsive, modern, and user-friendly interfaces using React.js, JavaScript, HTML, CSS, Bootstrap, and jQuery.
 
 ### ⚙️ Backend Development
 
-Building backend services and REST APIs using Node.js and Express.js.
+Developing backend services and REST APIs using Node.js and Express.js.
 
 ### 🗄️ Database Management
 
@@ -130,7 +131,7 @@ Working with MongoDB, MySQL, and MSSQL for database-driven applications.
 
 ### 🎨 UI / UX
 
-Designing clean, responsive interfaces with attention to usability, consistency, and user experience.
+Creating clean, responsive interfaces with a focus on usability, consistency, and modern user experience.
 
 ### 🖥️ IT Engineering
 
@@ -138,7 +139,7 @@ Supporting systems, troubleshooting technical issues, and assisting with IT infr
 
 ### 🔧 Problem Solving
 
-Transforming technical and business requirements into practical and reliable solutions.
+Turning business and technical requirements into practical and reliable digital solutions.
 
 </td>
 
@@ -200,9 +201,9 @@ A responsive portfolio website showcasing technical skills, professional experie
 
 <td width="50%" valign="top">
 
-### 🔗 More Development Work
+### 🔗 GitHub Projects
 
-Explore my GitHub repositories for additional projects, experiments, development work, and technical solutions.
+Explore additional development work, experiments, and technical projects.
 
 <br/>
 
@@ -219,68 +220,112 @@ Explore my GitHub repositories for additional projects, experiments, development
 
 ## 🎯 Currently Working On
 
-<div align="center">
+<table>
+<tr>
 
-| Focus | Goal |
-|:---|:---|
-| ⚛️ **React & JavaScript** | Building better and more scalable frontend applications |
-| ⚙️ **Backend Development** | Improving Node.js, Express.js and API architecture |
-| 🗄️ **Database Systems** | Building reliable database-driven applications |
-| 🖥️ **IT Engineering** | Strengthening infrastructure and system administration skills |
-| 🎨 **UI / UX** | Creating cleaner and more engaging user experiences |
-| 🚀 **Real-World Solutions** | Turning business requirements into practical technology |
+<td width="33%" align="center">
 
-</div>
+### ⚛️ Development
+
+React.js  
+JavaScript  
+Node.js  
+REST APIs
+
+</td>
+
+<td width="33%" align="center">
+
+### 🗄️ Data
+
+MongoDB  
+MySQL  
+MSSQL  
+API Integration
+
+</td>
+
+<td width="33%" align="center">
+
+### 🖥️ IT Engineering
+
+IT Support  
+System Administration  
+Troubleshooting  
+Technical Operations
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/iamrazzz77">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=iamrazzz77&bg_color=0D1117&color=58A6FF&line=0A66C2&point=FFFFFF&area=true&hide_border=true&custom_title=Faishal%20Saif's%20GitHub%20Activity"
-width="95%"
-alt="Faishal Saif GitHub Activity Graph"
-/>
-
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrazzz77&bg_color=0D1117&color=58A6FF&line=0A66C2&point=FFFFFF&area=true&hide_border=true&custom_title=Faishal%20Saif%20-%20GitHub%20Activity" width="95%" alt="Faishal Saif GitHub Activity Graph"/>
 
 <br/><br/>
 
 <a href="https://github.com/iamrazzz77">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=iamrazzz77&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=0A66C2&text_color=C9D1D9&rank_icon=github"
-height="170"
-alt="Faishal Saif GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrazzz77&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-height="170"
-alt="Top Languages"
-/>
-
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 
 </div>
 
 ---
 
-## 🧠 Development Philosophy
+## 💡 Development Philosophy
 
 > **Build with purpose. Keep it simple. Solve real problems.**
 
-My approach to development:
+<table>
+<tr>
 
-- Clean and maintainable code
-- Responsive and accessible interfaces
-- Practical business-focused solutions
-- Reliable and stable systems
-- Continuous learning and improvement
+<td width="25%" align="center">
+
+**01**
+
+### Clean
+
+Maintainable and understandable code.
+
+</td>
+
+<td width="25%" align="center">
+
+**02**
+
+### Practical
+
+Solutions designed around real requirements.
+
+</td>
+
+<td width="25%" align="center">
+
+**03**
+
+### Reliable
+
+Stable and user-focused technology.
+
+</td>
+
+<td width="25%" align="center">
+
+**04**
+
+### Improve
+
+Always learning and refining.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -288,17 +333,17 @@ My approach to development:
 
 <div align="center">
 
-**Understand**  
+**UNDERSTAND**  
 ↓  
-**Plan**  
+**PLAN**  
 ↓  
-**Build**  
+**BUILD**  
 ↓  
-**Test**  
+**TEST**  
 ↓  
-**Improve**  
+**IMPROVE**  
 ↓  
-**Deliver**
+**DELIVER**
 
 </div>
 
@@ -313,19 +358,19 @@ I'm always interested in **interesting projects, collaboration, professional opp
 <br/><br/>
 
 <a href="https://faishal-personal-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/faishal-saif-3b13601b7/">
-<img src="https://img.shields.io/badge/LinkedIn-Faishal%20Saif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/iamrazzz77">
-<img src="https://img.shields.io/badge/GitHub-iamrazzz77-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/💻%20GitHub-Follow-111827?style=for-the-badge" alt="GitHub"/>
 </a>
 
 <a href="mailto:faishalsaif331@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/✉️%20Email-Contact-D14836?style=for-the-badge" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -333,5 +378,13 @@ I'm always interested in **interesting projects, collaboration, professional opp
 ### ✨ Building · Learning · Improving
 
 *Turning ideas into meaningful digital experiences.*
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile. 👋**
 
 </div>
